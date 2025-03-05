@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Test - Resume</title><link href="https://davkasnaixl.github.io/Assignment2/" rel="alternate"></link><link href="https://davkasnaixl.github.io/Assignment2/feeds/resume.atom.xml" rel="self"></link><id>https://davkasnaixl.github.io/Assignment2/</id><updated>2025-03-01T00:00:00-06:00</updated><entry><title>Resume</title><link href="https://davkasnaixl.github.io/Assignment2/resume.html" rel="alternate"></link><published>2025-03-01T00:00:00-06:00</published><updated>2025-03-01T00:00:00-06:00</updated><author><name>Davud</name></author><id>tag:davkasnaixl.github.io,2025-03-01:/Assignment2/resume.html</id><summary type="html">&lt;h1&gt;Davud Habibullah&lt;/h1&gt;
-&lt;p&gt;(452) 878-1426&lt;br&gt;
-&lt;a href="mailto:habibulladavud02@gmail.com"&gt;davudfakeemail@gmail.com&lt;/a&gt;&lt;br&gt;
-Winnipeg, MB, Canada&lt;/p&gt;
-&lt;h2&gt;&lt;strong&gt;Professional Summary&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Experienced and responsible student with leadership and organizational skills seeking a part-time position.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Seasonal Animal Care Attendant with a proven ability to care for shelter animals and maintain clean and safe living environments.&lt;/li&gt;
-&lt;li&gt;Experience as a Mover for …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Davud Habibullah&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pelican Resume - Resume</title><link href="https://davkasnaixl.github.io/Assignment2/" rel="alternate"></link><link href="https://davkasnaixl.github.io/Assignment2/feeds/resume.atom.xml" rel="self"></link><id>https://davkasnaixl.github.io/Assignment2/</id><updated>2025-03-01T00:00:00-06:00</updated><entry><title>Resume</title><link href="https://davkasnaixl.github.io/Assignment2/resume.html" rel="alternate"></link><published>2025-03-01T00:00:00-06:00</published><updated>2025-03-01T00:00:00-06:00</updated><author><name>Davud</name></author><id>tag:davkasnaixl.github.io,2025-03-01:/Assignment2/resume.html</id><summary type="html">&lt;p&gt;Resume of Davud Habibullah&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Davud Habibullah&lt;/h1&gt;
 &lt;p&gt;(452) 878-1426&lt;br&gt;
 &lt;a href="mailto:habibulladavud02@gmail.com"&gt;davudfakeemail@gmail.com&lt;/a&gt;&lt;br&gt;
 Winnipeg, MB, Canada&lt;/p&gt;
