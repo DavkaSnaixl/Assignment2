@@ -1,15 +1,15 @@
 AUTHOR = 'Davud'
-SITENAME = 'Test'
+SITENAME = 'Pelican Resume'
 SITEURL = ""
 
 PATH = "content"
 
-TIMEZONE = 'Europe/Rome'
+TIMEZONE = 'America/Winnipeg'
 
 DEFAULT_LANG = 'EN'
 
 
-THEME = 'themes/Flex '
+THEME = "themes/Flex"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -21,9 +21,10 @@ AUTHOR_FEED_RSS = None
 SITETITLE = "Welcome to my website"
 
 MAIN_MENU = True
+
 MENUITEMS = [
-    ("About", "/about.html"),
-    ("Resume", "/resume.html"),
+    ("About", "/Assignment2/about.html"),
+    ("Resume", "/Assignment2/resume.html"),
 ]
 
 # Social widget
